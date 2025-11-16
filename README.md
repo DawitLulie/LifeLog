@@ -163,6 +163,43 @@ Experience LifeLog in action:
 
 ## Project Folder Structure
 
+LifeLog/
+│
+├── index.html                          → Dashboard Overview
+│
+├── pages/
+│   ├── journal.html                    → Journal Entry
+│   ├── habit-tracker.html              → Habit Tracker
+│   ├── mood-tracker.html               → Mood Tracker
+│   ├── todo.html                       → To-Do List
+│   └── weekly-summary.html             → Weekly Summary
+│
+├── components/
+│   ├── header.html                     → Navigation bar
+│   ├── sidebar.html                    → Sidebar menu with links
+│   └── footer.html                     → Footer
+│
+├── assets/
+│   ├── css/
+│   │   ├── base.css                    → resets, variables, fonts
+│   │   ├── layout.css                  → header, sidebar, grid layout
+│   │   └── pages.css                   → styles for each page
+│   │
+│   ├── js/
+│   │   ├── main.js                     → shared logic (dark mode, navbar, storage)
+│   │   ├── journal.js                  → journal functions
+│   │   ├── habit.js                    → habit tracker logic
+│   │   ├── mood.js                     → mood tracker logic
+│   │   ├── todo.js                     → to-do list logic
+│   │   └── summary.js                  → weekly summary logic
+│   │
+│   └── images/
+│       ├── icons/                      → SVG/PNG icons
+│       └── illustrations/              → graphics
+│
+└── README.md
+
+
  ```bash
 
 ```
