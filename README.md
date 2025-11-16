@@ -16,7 +16,7 @@
 </p>
 
 
-## <span style="color:red;">Group Members</span>
+Group Members
 ---
 
 
@@ -28,7 +28,7 @@
 ![Haset Tesfaye](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=00CED1&width=400&height=50&lines=Haset+Tesfaye)
 
 
-## <span style="color:red;">Project Taglines</span>
+## Project Taglines
 
 **LifeLog** is your all-in-one digital journal and productivity dashboard, designed to help you:
 
@@ -40,7 +40,7 @@
 *Seamless, responsive, and intuitive — stay organized, motivated, and mindful every day.*
 
 
-## <span style="color:red;">Table of contents</span> 
+## Table of contents
 - [Overview](#overview)  
 - [Features](#features)  
 - [System Architecture](#system-architecture)  
@@ -56,7 +56,7 @@
 
 ---
 
-## <span style="color:red;">Overview</span>
+## Overview
 
 LifeLog is a personal journaling and productivity web app designed to help users record thoughts, track habits, monitor moods, and manage daily tasks. It provides a unified, responsive dashboard accessible on desktop, tablet, and mobile devices.  
 
@@ -66,7 +66,7 @@ Future versions may include cloud storage, authentication, and AI-powered insigh
 
 ---
 
-## <span style="color:red;">Features</span>
+## Features
 
 | Module | Description |
 |:--|:--|
@@ -80,7 +80,7 @@ Future versions may include cloud storage, authentication, and AI-powered insigh
 
 ---
 
-## <span style="color:red;">System Architecture</span>
+## System Architecture
 
 ```plaintext
 User
@@ -93,7 +93,7 @@ User
    Local Storage (Client-Side)
 ```
 
-## <span style="color:red;">Technology Stack</span
+## Technology Stack
 
 | **Layer**             | **Technology**                           |
 | :-------------------- | :--------------------------------------- |
@@ -101,7 +101,7 @@ User
 | **Storage**           | Browser Local Storage (offline)          |
 | **Future Enhancements** | PHP, Database (MySQL/SQLite), AI modules |
 
-## <span style="color:red;">Installation</span>
+## Installation
 
 1. **Clone the repository:**
 
@@ -123,7 +123,7 @@ Experience LifeLog in action:
 *Quick, easy, and ready to enhance your productivity today!*
 
 
-## <span style="color:red;">Usage Guide</span>
+## Usage Guide
 
 | **Action**           | **Description**                                                |
 | :------------------ | :------------------------------------------------------------- |
@@ -161,7 +161,7 @@ Experience LifeLog in action:
 
 ---
 
-## <span style="color:red;">Project Folder Structures</span>
+## Project Folder Structures
 ```bash
 LifeLog/
 │
