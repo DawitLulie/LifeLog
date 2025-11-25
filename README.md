@@ -43,17 +43,17 @@ Group Members
 
 
 ## Table of contents
-- [Overview](#overview)  
+* [Overview](#overview)  
 - [Features](#features)  
-- [System Architecture](#system-architecture)  
+* [System Architecture](#system-architecture)  
 - [Tech Stack](#tech-stack)  
-- [Installation](#installation)  
+* [Installation](#installation)  
 - [Usage Guide](#usage-guide)  
-- [Screenshots & UI Mockups](#screenshots--ui-mockups)  
+* [Screenshots & UI Mockups](#screenshots--ui-mockups)  
 - [Future Enhancements](#future-enhancements)  
-- [Contributing](#contributing)   
+* [Contributing](#contributing)   
 - [License](#license)  
-- [Acknowledgements](#acknowledgements)
+* [Acknowledgements](#acknowledgements)
 - [Folder Structure](#Project-Folder-Structure)
 
 ---
